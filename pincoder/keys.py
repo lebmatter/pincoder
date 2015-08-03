@@ -1,4 +1,5 @@
 #!/usr/bin/python
 # coding: utf8
 
-datagov_key = '28640e25020267002a8351151288352a'
+# obtain API key as explained in https://data.gov.in/help/how-use-datasets-apis
+datagov_key = ''
